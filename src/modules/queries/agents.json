@@ -1,0 +1,44 @@
+[
+    { "id": "0001", "firstName": "Liz ", "lastName": "Gallo", "email": "liz_gallo@email.com", "reserved": false, "status": "Registered",
+        "skills": [
+            { "active": true, "name": "English", "level": 1 },
+            { "active": true, "name": "Audio & Video", "level": 1 },
+            { "active": true, "name": "Logistics", "level": 1 },
+            { "active": false, "name": "Dutch", "level": 0 },
+            { "active": false, "name": "IT products", "level": 0 }
+        ],
+        "mediaflows": [
+            { "active": true, "name": "Airfare reservation" },
+            { "active": true, "name": "Lost luggage " },
+            { "active": true, "name": "Prices" }
+        ]
+    },
+    { "id": "0002", "firstName": "Frenk ", "lastName": "Hoffman", "email": "frenk_hoffman@email.com", "reserved": false, "status": "Registered",
+        "skills": [
+            { "active": true, "name": "English", "level": 1 },
+            { "active": true, "name": "Audio & Video", "level": 1 },
+            { "active": true, "name": "Logistics", "level": 1 },
+            { "active": false, "name": "Dutch", "level": 0 },
+            { "active": false, "name": "IT products", "level": 0 }
+        ],
+        "mediaflows": [
+            { "active": true, "name": "Airfare reservation" },
+            { "active": true, "name": "Lost luggage " },
+            { "active": true, "name": "Prices" }
+        ]
+    },
+    { "id": "0003", "firstName": "Mia", "lastName": "Rosenberg", "email": "mia_rosenberg@email.com", "reserved": true, "status": "Un-Registered",
+        "skills": [
+            { "active": true, "name": "English", "level": 1 },
+            { "active": true, "name": "Audio & Video", "level": 1 },
+            { "active": true, "name": "Logistics", "level": 1 },
+            { "active": false, "name": "Dutch", "level": 0 },
+            { "active": false, "name": "IT products", "level": 0 }
+        ],
+        "mediaflows": [
+            { "active": true, "name": "Airfare reservation" },
+            { "active": true, "name": "Lost luggage " },
+            { "active": true, "name": "Prices" }
+        ]
+     }
+]
